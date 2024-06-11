@@ -1,1 +1,1 @@
-# The-BMI-statistics-of-each-person-EDA-ML-
+# The BMI statistics of each person EDA and ML
